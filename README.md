@@ -3,11 +3,11 @@
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an System degree student at University of General Sarmiento. Python, Java are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in ..... **
+I am an System degree student at University of General Sarmiento. Python are the programming language I am good at. I love to learn and build something new, productive, innovative and creative.
+* **I have an interest in data analysis and process automation **
 - 🌱 I’m currently learning ...
-  - Java Script
+  - Java
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 🖌️ I love painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">samanta.fer95@gmail.com</a>
+- Outside tech, 📖 I love reading science books, 🎵 listen to music, and 🌴 explore nature outdoors.
+- 📫 Reach out to me at: <a href="samanta.fer95@gmail.com">samanta.fer95@gmail.com</a>
